@@ -1,4 +1,4 @@
-# A tool to crawl for all availabe HTML, CSS, JAVASCRIPT, INTERNAL, EXTERNAL and IMAGES links.
+# A tool to crawl for all available HTML, CSS, JAVASCRIPT, INTERNAL, EXTERNAL and IMAGES links.
 # importing requests library to send HTTP requests
 import requests
 #importing BeautifulSoup class from bs4 library which helps us parse and navigate html documents
